@@ -9,7 +9,7 @@ p {
 
 .hello_string {
     font-size: large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(44, 107, 161);
     text-align: center;
 }
@@ -20,6 +20,13 @@ p {
 }
 
 .bye_sting {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     color: rgb(44, 107, 161);
     font-size: smaller;
+}
+
+.name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 251, 250);
+    font-weight: smaller;
 }
