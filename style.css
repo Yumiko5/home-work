@@ -1,4 +1,25 @@
 body {
-    color: rgb(255, 255, 255);
+    color: rgb(44, 107, 161);
     background-image:url(https://s1.1zoom.ru/b4857/620/Fast_food_Hamburger_Vegetables_Fire_Two_520128_1920x1080.jpg);
+}
+
+p {
+    color: rgb(44, 107, 161);
+}
+
+.hello_string {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(44, 107, 161);
+    text-align: center;
+}
+.burger {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(44, 107, 161);
+    font-weight: lighter;
+}
+
+.bye_sting {
+    color: rgb(44, 107, 161);
+    font-size: smaller;
 }
